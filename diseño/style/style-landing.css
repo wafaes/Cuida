@@ -1,0 +1,16 @@
+.nav-link.active {
+    color: #3de9a7 !important; /* o el color que prefieras */
+    font-weight: bold;
+  }
+
+
+  ::placeholder {
+      color: #ccc !important;
+      opacity: 1;
+    }
+
+
+.background-us{
+    background-color: #f9cad2;
+}
+
